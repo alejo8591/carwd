@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
+body{
+    color: #333;
+    font-family: Arial, "Monaco", sans-serif;
+    font-size: 16px;
+}
+
+.container{
+    background: #FFF;
+    margin-top: 50px;
+}
+
+header{
+    background: #DDD;
+    border-bottom: 1px solid;
+}
+
+header h1{
+    font-size: 4em;
+    margin: 1em;
+}
+
+header p{
+    font-size: 2em;
+    margin: 1em;
+}
+
+article{
+    background: #FFF;
+    border-bottom: 2px solid #CCC;
+}
+
+footer{
+    background: #CCC;
+}
