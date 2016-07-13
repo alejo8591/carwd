@@ -1,6 +1,13 @@
 # Repositorio RWD
 Repositorio y Base del Conocimiento para el curso RWD en Alkosto
 
+### Presentaciones
+
+Presentaciones de los dos momentos del curso:
+
+* [Conceptos de Interacción y UX para HTML5](https://www.dropbox.com/s/gsd2gfimkyuggdl/slides_carwd.pdf?dl=0)
+* [HTML5, CSS3 y Responsive Web Design (RWD)](https://www.dropbox.com/s/smvy6f8ofizsqos/slides_rwd_html5.pdf?dl=0)
+
 ### Material Extra
 
 * [En la wiki del repositorio encuentran un este espacio donde se colocara información, artículos, cursos, e-books y material que pueda servir de apoyo.](https://github.com/alejo8591/carwd/wiki)
